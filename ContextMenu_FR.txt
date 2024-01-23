@@ -1,0 +1,13 @@
+ContextMenu_FR = {
+
+	ContextMenu_Nominal_Standing_Fingering = "Doigtage debout",
+	ContextMenu_Nominal_Sitting_Regular_Fingering = "Doigtage assis régulier",
+	ContextMenu_Nominal_Sitting_Relaxed_Fingering = "Doigtage assis relaxer",
+
+	ContextMenu_Nominal_Quick_Wank = "Branlette rapide",
+	ContextMenu_Nominal_Regular_Wank = "Branlette régulière",
+	ContextMenu_Nominal_Relaxed_Wank = "Branlette relaxée",
+	ContextMenu_Nominal_Sitting_Regular_Wank = "Branlette assis régulier",
+	ContextMenu_Nominal_Sitting_Relaxed_Wank = "Branlette assis relaxer"
+
+}
